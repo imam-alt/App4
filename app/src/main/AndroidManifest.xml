@@ -1,1 +1,3 @@
-<manifest package="com.imam.app4" />
+<manifest>
+    <application />
+</manifest>
