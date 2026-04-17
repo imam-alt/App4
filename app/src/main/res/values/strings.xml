@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App4 Punch Challenge</string>
+    <string name="mass_hint">Phone mass in kg</string>
+    <string name="mass_default">0.20</string>
+    <string name="arm_punch">Arm punch</string>
+    <string name="reset_record">Reset record</string>
+    <string name="share_record">Share challenge</string>
+    <string name="status_idle">Press Arm Punch, hold the phone firmly, then throw a punch motion.</string>
+    <string name="current_reading">Current reading</string>
+    <string name="best_record">Best record</string>
+    <string name="history">Punch history</string>
+</resources>
