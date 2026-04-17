@@ -1,3 +1,5 @@
-<manifest>
-    <application />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application>
+        <activity android:name=".MainActivity" android:exported="true" />
+    </application>
 </manifest>
